@@ -1,0 +1,49 @@
+{
+    "core": {
+        "version": "MC4xLjg",
+        "show_version": "1",
+        "log_level": "0",
+        "debug": "0",
+        "ssl": "1",
+        "admin": "acp"
+    },
+    "board": {
+        "main_page_name": "BOARDS",
+        "main_mail": "admin@s89.eu",
+        "boards_off": 0,
+        "default_group": 3,
+        "unread": 30,
+        "confirm_reg": 1,
+        "chatbox_h": "260"
+    },
+    "admin": {
+        "skin": "rwd_sb1",
+        "debug": "0"
+    },
+    "translations": {
+        "path": "\/environment\/Translations",
+        "fallback": "pl_PL"
+    },
+    "images": {
+        "path": "\/public\/upload\/avatars\/"
+    },
+    "cache": {
+        "active": "1",
+        "cache_time": "90",
+        "cache_dir": "\/environment\/Cache\/objects\/",
+        "cache_ext": ".c"
+    },
+    "twig": {
+        "debug": "0",
+        "cache": "1",
+        "skin": "simple"
+    },
+    "pagination": {
+        "boards": "10",
+        "plots": "20",
+        "users": "50"
+    },
+    "plugins": {
+        "active": 1
+    }
+}

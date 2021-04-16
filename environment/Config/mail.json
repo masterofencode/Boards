@@ -1,0 +1,10 @@
+{
+    "username": "admin@boards.pl",
+    "name": "admin@boards.pl",
+    "type": "MAIL",
+    "host": "",
+    "password": "",
+    "port": "587",
+    "tls": "1",
+    "auth": "1"
+}
